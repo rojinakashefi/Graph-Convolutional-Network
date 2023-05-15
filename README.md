@@ -32,16 +32,16 @@
    
    **Libraries:** networkx
    
-   **Dataset:**
+   **Dataset:** [Twitch Dataset](https://github.com/benedekrozemberczki/datasets)
 
-## Classifying Facebook Pages using DeepWalk & Node2Vec
+## Node classification using Graph Convolution network
 
-1. Karate Club example
+1. Learn features of Nodes using GCN
    
-   **Concepts:** DeepWalk, RandomWalk, Skip-gram, Node embedding
+   Concepts: Adjancey matrix, symmetric normalizing
    
-   **Libraries:** networkx, gensim, karateclub
-   
-   **Dataset**:
+   Libraries: networkx
 
-## Graph Convolutional Networks for Classification in Python
+----
+
+Resources : [GraphML](https://antonsruberts.github.io/graph/)
