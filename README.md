@@ -36,19 +36,20 @@ Project aims:
 
 3. Predict patients condition based on the procedure and medication based on Graph convolution networks.
 
-![](https://github.com/rojinakashefi/GCN-Projects/tree/main/images/GCN.png)
+![](https://github.com/rojinakashefi/GCN-Projects/blob/main/images/GCN.png)
 
-![](https://github.com/rojinakashefi/GCN-Projects/tree/main/images/graph2.png)
+![](https://github.com/rojinakashefi/GCN-Projects/blob/main/images/graph2.png)
 
 **Dataset:** [FHIR dataset](https://github.com/rojinakashefi/GCN-Projects/tree/main/dataset)
+
+**Requriements:**
+
+1. PyTorch
 
 **Refrences:**
 
 [1] [Kipf & Welling, Semi-Supervised Classification with Graph Convolutional Networks, 2016](https://arxiv.org/abs/1609.02907)
 
-**Requriements:**
-
-1. PyTorch
 
 ## Finding Mature Language in Twitch with Label Propagation
 
