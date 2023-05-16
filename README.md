@@ -36,11 +36,11 @@ Project aims:
 
 3. Predict patients condition based on the procedure and medication based on Graph convolution networks.
 
-![](/Users/rojina/Desktop/GNN&GCN/images/GCN.png)
+![](https://github.com/rojinakashefi/GCN-Projects/tree/main/images/GCN.png)
 
-![](/Users/rojina/Desktop/GNN&GCN/images/graph2.png)
+![](https://github.com/rojinakashefi/GCN-Projects/tree/main/images/graph2.png)
 
-**Dataset:** [FHIR dataset]()
+**Dataset:** [FHIR dataset](https://github.com/rojinakashefi/GCN-Projects/tree/main/dataset)
 
 **Refrences:**
 
