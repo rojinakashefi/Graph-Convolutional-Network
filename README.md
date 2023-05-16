@@ -1,4 +1,4 @@
-# GCN Projects
+# Graph Convolution Network Projects
 
 ### Why graphs?
 
@@ -24,7 +24,7 @@
 
 6. Graph evolution
 
-## Text classification on FHIR dataset using GCN
+## Text classification on FHIR dataset using Graph Convolution Network
 
 This project focuses on applying the Text Graph Convolutional Network (Text-GCN) to the task of FHIR data classification. FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging electronic health records, developed by the Health Level Seven International organization. 
 
@@ -61,7 +61,7 @@ Project aims:
    
    **Dataset:** [Twitch Dataset](https://github.com/benedekrozemberczki/datasets)
 
-## Node classification using Graph Convolution network
+## Node classification using Graph Convolution Network
 
 1. Learn features of Nodes using GCN
    
